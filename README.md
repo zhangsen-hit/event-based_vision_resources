@@ -1,4 +1,4 @@
-# Event-based Vision Resources
+# Event-based Vision  Resources
 
 ## <a href="https://sites.google.com/view/nevi2024">ECCV 2024. Workshop on Neuromorphic Vision (NeVi), Sep 29 or 30, 2024.</a>
 ## <a href="https://neural-fields-beyond-cams.github.io/">ECCV 2024. 1st Workshop on Neural Fields Beyond Conventional Cameras, Sep 29 or 30, 2024.</a>
